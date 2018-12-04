@@ -1,0 +1,25 @@
+.contact h1 {
+  text-align: right;
+  font-family: 'Roboto', sans-serif;
+  color: grey;
+  font-weight: 800;
+  font-size: 60px;
+  padding: 20px;
+  margin-bottom: 50px;
+}
+
+.gridc{ 
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+  grid-gap: 10px;
+  align-items: stretch;
+  justify-items: center;
+  align: center;
+  margin-bottom: 500px;
+  justify-content: center;
+
+  }
+
+.gridc img {
+  max-width: 100%;
+}
